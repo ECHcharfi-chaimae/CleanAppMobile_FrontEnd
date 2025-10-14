@@ -1,4 +1,4 @@
-# 🧼 CleanX Mobile Application
+#  CleanX Mobile Application
 
 **CleanX** is a mobile application built with **React Native**, designed to manage cleaning services such as **car washes, carpet cleaning, and house cleaning**.  
 It offers a smooth and modern experience for **clients, workers, and admins**, optimizing service management and communication.
