@@ -18,7 +18,6 @@ It offers a smooth and modern experience for **clients, workers, and admins**, o
 ## Tech Stack
 
 - **Frontend:** React Native  
-- **State Management:** Redux  
 - **API Communication:** Axios  
 - **Backend:** [Spring Boot API](https://github.com/ECHcharfi-chaimae/CleanMobile_Back)
 
