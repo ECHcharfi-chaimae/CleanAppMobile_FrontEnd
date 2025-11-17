@@ -10,8 +10,9 @@ It offers a smooth and modern experience for **clients, workers, and admins**, o
 -  **Multi-role Support:** Clients, workers, and admins each have tailored experiences.
 -  **Service Management:** Book, track, and manage cleaning services in real time.
 -  **Integrated Communication:** Automatic message generation and **WhatsApp integration** to connect clients and workers instantly.
--  **Service Tracking:** Monitor status updates and manage bookings efficiently.
 -  **Scalable Architecture:** Built with React Native and ready for cross-platform deployment.
+-   **Service Tracking:** Monitor status updates and manage bookings efficiently.
+
 
 ---
 
